@@ -1,5 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
 project(nias-cpp-example LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 20)
 
 # ---------------------------------------------------------------------------
 # Do a release build if nothing was specified

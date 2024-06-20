@@ -4,7 +4,7 @@
 #include <vector>
 #include <nias-cpp/vector.h>
 
-class MyVector : public NiasVector
+class MyVector : public nias::NiasVector
 {
 public:
   // Inherit constructors
